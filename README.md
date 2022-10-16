@@ -25,7 +25,7 @@
 - 👀 I’m interested in exploring the Technical World.
 - 🌱 I’m currently learning MERN stack, Cloud Computing and DSA.
 - 💞️ Learning the new skills and looking for the opportunities to contribute.
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Pratik-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/pratik-darange-ab1498164])
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Pratik-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pratik-darange-ab1498164)
 
 <!---
 Pratik-05/Pratik-05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
