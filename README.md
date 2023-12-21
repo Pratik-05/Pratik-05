@@ -32,5 +32,3 @@ I enjoy learning new skills and am actively seeking opportunities to contribute 
 
 ## 📫 Reach Me
 Feel free to reach out to me via email at [pratikpd2391@gmail.com](mailto:pratikpd2391@gmail.com).
-
-[![Linkedin Badge](https://img.shields.io/badge/-Pratik-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pratik-darange-ab1498164)
