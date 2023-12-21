@@ -18,12 +18,12 @@
 
 ## About Me
 
-Hey there! I'm Pratik, and I'm passionate about exploring the vast world of technology. Currently on a journey to master the MERN stack, delve into Cloud Computing, and sharpen my skills in Data Structures and Algorithms.
+Hey there! I'm Pratik, and I'm passionate about exploring the vast world of technology. Currently on a journey to master the DevOps, delve into Web Development, and sharpen my skills in Data Structures and Algorithms.
 
 ## 🌱 Currently Learning
 
 - Web Development 
-- Cloud Computing
+- Cloud Computing & DevOps
 - Data Structures and Algorithms
 
 ## 💡 Interests
